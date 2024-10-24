@@ -1,4 +1,4 @@
-# Lithum Battery Health Analysis
+# Lithium Battery Health Analysis
 
 ## Version 1
 ### Data Collection
