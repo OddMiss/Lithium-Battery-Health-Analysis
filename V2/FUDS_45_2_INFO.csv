@@ -1,0 +1,5 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,TEST REPORT,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22
+,,,12_15_2015_SP20-2_45C_FUDS_50SOC,,,,,,,,C:\ArbinSoftware\MITS_PRO\Data\12_15_2015_SP20-2_45C_FUDS_50SOC.res,,,,,,,,,,,
+,,,2015-12-15 00:00:00,,,,         Mapped_Aux_Number,,,,,                    Log_Data_Flag                ,,,,                   Cell Grading          ,,,Concentration,   Digital I/O,,
+Channel,Start_DateTime,Schedule_File_Name,Creator,Comments,Chan_Num, Item_ID,Volt,Temp,Pres,PH,FR,ChanStat,Aux,SmartBty,Event,Grade,Internal_Resistance(Ohm),Discharge_Capacity(Ah),Concentration,Digital Input,Digital Output,Related Humidity
+1-005,2015-12-15 09:14:29,SP20_FUDS_Current_Sim.sdu,,CH5_SP20-2,16,,0,0,0,0,0,False,False,False,False,,,,0,0,0,
