@@ -344,4 +344,5 @@ c.充放电条件的影响：虽然研究已遵循统一的充放电标准，但
 参考
 
 [1] 见官方网站：https://calce.umd.edu/data#CS2
+
 [2] 来源于倔强的小蜗牛：https://github.com/XiuzeZhou/CALCE、https://snailwish.com/
